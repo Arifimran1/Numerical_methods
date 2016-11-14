@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1477809716 source:d:\program\numeric\project_of-numeric\main.cpp
+	<iostream>
+	"bisection.h"
+	"gauss_seidel.h"
+	"secant.h"
+	"newton_polinomial.h"
+	<bits/stdc++.h>
+	<windows.h>
+	<conio.h>
+
+1477830761 d:\program\numeric\project_of-numeric\include\bisection.h
+
+1477830835 source:d:\program\numeric\project_of-numeric\src\bisection.cpp
+	"bisection.h"
+	<bits/stdc++.h>
+	<iostream>
+
+1477828603 d:\program\numeric\project_of-numeric\include\gauss_seidel.h
+
+1477828597 source:d:\program\numeric\project_of-numeric\src\gauss_seidel.cpp
+	"gauss_seidel.h"
+	<bits/stdc++.h>
+
+1477830307 d:\program\numeric\project_of-numeric\include\secant.h
+
+1477830903 source:d:\program\numeric\project_of-numeric\src\secant.cpp
+	"secant.h"
+	<bits/stdc++.h>
+
+1477829995 d:\program\numeric\project_of-numeric\include\newton_polinomial.h
+
+1477830877 source:d:\program\numeric\project_of-numeric\src\newton_polinomial.cpp
+	"newton_polinomial.h"
+	<bits/stdc++.h>
+
